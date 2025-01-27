@@ -2,7 +2,7 @@
 /**
  * @package           makeiteasy-back-to-top
  * @author 				 Lovro Hrust <lovro@makeiteasy.hr>
- * @copyright 			 2023 Make IT Easy
+ * @copyright 			 2023-2025 Lovro Hrust
  *
  * @wordpress-plugin
  * Plugin Name:       Makeiteasy Back To Top
